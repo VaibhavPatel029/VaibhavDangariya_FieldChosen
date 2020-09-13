@@ -21,10 +21,11 @@ Hyperparameter tuning
 Data Augmentation
 Optimization (adam, RMS, RMSProp)
 
+
 # Skills
-```
+
 Programming Languages : Python, C, C++, Core Java.
-machine Learning : Sklearn, Pandas, Seaborn, Matplotlib, Numpy.
+Machine Learning : Sklearn, Pandas, Seaborn, Matplotlib, Numpy.
 Deep Learning : TensorFlow , Keras ,OpenCV and Transfer Learning Technics.
 Databases : SQL.
 Doployment and Cloud Platform: : Amazon SageMaker, Docker, Flask.
